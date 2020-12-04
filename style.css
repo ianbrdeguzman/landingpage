@@ -60,7 +60,7 @@ footer ul li a {
     background-color: #000;
     height: 180px;
     position: absolute;
-    top: 500px;
+    top: 95vh;
     visibility: hidden;
 }
 
@@ -68,7 +68,7 @@ footer ul li a {
     background-color: #000;
     height: 180px;
     position: absolute;
-    top: 1590px;
+    top: 285vh;
     visibility: hidden;
 }
 
@@ -76,7 +76,7 @@ footer ul li a {
     background-color: #000;
     height: 180px;
     position: absolute;
-    top: 1850px;
+    top: 320vh;
     visibility: hidden;
 }
 
